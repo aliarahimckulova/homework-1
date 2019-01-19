@@ -1,0 +1,8 @@
+{
+  "string": "Алия",
+  "number": 19,
+  "boolean": false,
+  "object": {
+    "string":"Настя", "age": 18, "city":"Москва" }
+  "null" : null
+}
